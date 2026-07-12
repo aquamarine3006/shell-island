@@ -1,4 +1,6 @@
-A dynamic island inspired morphing pill panels written in qml language for quickshell (control center, launcher, lockscreen, media, power, wallpaper picker, sys info, visualizer) and backing services (audio, battery, brightness, network, power profile, colors, sys stats), plus a Pill-style bar widget.
+# quickshell-config
+
+My [Quickshell](https://quickshell.outfoxxed.me/) desktop shell config for Hyprland — panels (control center, launcher, lockscreen, media, power, wallpaper picker, sys info, visualizer) and backing services (audio, battery, brightness, network, power profile, colors, sys stats), plus a Pill-style bar widget.
 
 Originally lived inside my [nixos-dots](https://github.com/aquamarine3006/nixos-dots) flake; split out here so it can be dropped into any setup, NixOS or not.
 
